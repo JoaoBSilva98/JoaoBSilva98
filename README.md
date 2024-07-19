@@ -15,6 +15,7 @@
   <img align="center" alt="Joaython" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Joangular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
   <img align="center" alt="Joascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Joatter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-plain.svg">
   <img align="right" alt="gif" src="https://cdn.discordapp.com/attachments/562207606098362371/1182007023148204072/catto.gif?ex=658320d2&is=6570abd2&hm=3bf371580b80c14c4a4b9ef21c159d71a15e3d819072a2d2711fe9819c41468d&">
 </div>
 
