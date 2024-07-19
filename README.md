@@ -1,6 +1,6 @@
 ### Olá! Sou o João, eterno estudante de Java/Python/JavaScript e "arriscador" de mobile.
 
-- 🔭 Cursando ADS na Fatec Ipiranga
+- 🔭 Cursando ADS na Fatec Ipiranga (reta final)
 - 🌱 Estudando mercado e tecnologias em ascensão
 - 😄 Pronomes: Ele/Dele
 
